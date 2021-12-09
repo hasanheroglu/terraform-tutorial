@@ -7,3 +7,7 @@ Learning terraform.
 ## Thu 09 Dec 2021 03:07:48 PM +03
 - Created an instance on AWS using terraform. 
 - Used terraform's apply, plan and destroy commands.
+## Thu 09 Dec 2021 03:28:16 PM +03
+- Removed instance file that shares the aws secret key to the public.
+- Created new file tfvars file to store confidential information.
+- Refactored tf files.
