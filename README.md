@@ -18,3 +18,6 @@ Learning terraform.
 ## Fri 10 Dec 2021 07:51:32 PM +03
 - Got the public ip of the aws instance as an output.
 - Ran a command locally to store private ip's of the instance.
+## Fri 10 Dec 2021 08:14:46 PM +03
+- Created a S3 bucket on AWS.
+- Saved the terraform state to S3 bucket using *backend* functionality.
