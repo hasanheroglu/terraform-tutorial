@@ -20,4 +20,4 @@ Learning terraform.
 - Ran a command locally to store private ip's of the instance.
 ## Fri 10 Dec 2021 08:14:46 PM +03
 - Created a S3 bucket on AWS.
-- Saved the terraform state to S3 bucket using *backend* functionality.
+- Saved the terraform state to S3 bucket using **backend** functionality.
