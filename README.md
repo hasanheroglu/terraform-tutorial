@@ -11,3 +11,7 @@ Learning terraform.
 - Removed instance file that shares the aws secret key to the public.
 - Created new file tfvars file to store confidential information.
 - Refactored tf files.
+## Fri 10 Dec 2021 06:23:14 PM +03
+- Created aws key pair.
+- Connected to the AMI using ssh with created key information.
+- Executed a script after connection to install nginx to the machine.
