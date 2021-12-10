@@ -15,3 +15,6 @@ Learning terraform.
 - Created aws key pair.
 - Connected to the AMI using ssh with created key information.
 - Executed a script after connection to install nginx to the machine.
+## Fri 10 Dec 2021 07:51:32 PM +03
+- Got the public ip of the aws instance as an output.
+- Ran a command locally to store private ip's of the instance.
