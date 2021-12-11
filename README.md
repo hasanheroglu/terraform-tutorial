@@ -35,3 +35,7 @@ Learning terraform.
 - Created internet gateway to make public subnets available to the internet.
 - Created NAT gateway to make private subnets available to the internet.
 - Created route tables to route subnets to the internet gateway.
+## Sat 11 Dec 2021 07:23:59 PM +03 (DEMO 8)
+- Created an instance in custom VPC.
+- Created a security group for the instance.
+
