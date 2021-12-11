@@ -23,4 +23,8 @@ Learning terraform.
 - Saved the terraform state to S3 bucket using **backend** functionality.
 ## Sat 11 Dec 2021 10:15:41 AM +03
 - Used a data source called **aws ip ranges** to get ip range of a specific region.
-- Used these ip ranges to create a **aws security group**. 
+- Used these ip ranges to create a **aws security group**.
+## Sat 11 Dec 2021 10:45:48 AM +03
+- Downloaded a module.
+- Used the downloaded module.
+- Basically this demo is failed because external module was deprecated but the main idea of this demo was getting a module and then using it.
