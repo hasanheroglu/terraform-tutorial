@@ -28,3 +28,10 @@ Learning terraform.
 - Downloaded a module.
 - Used the downloaded module.
 - Basically this demo is failed because external module was deprecated but the main idea of this demo was getting a module and then using it.
+## Sat 11 Dec 2021 06:38:56 PM +03
+- Studied on a VPC.
+- Created a custom VPC.
+- Created public and private subnets under VPC on three different availability zones.
+- Created internet gateway to make public subnets available to the internet.
+- Created NAT gateway to make private subnets available to the internet.
+- Created route tables to route subnets to the internet gateway.
