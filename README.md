@@ -21,3 +21,6 @@ Learning terraform.
 ## Fri 10 Dec 2021 08:14:46 PM +03
 - Created a S3 bucket on AWS.
 - Saved the terraform state to S3 bucket using **backend** functionality.
+## Sat 11 Dec 2021 10:15:41 AM +03
+- Used a data source called **aws ip ranges** to get ip range of a specific region.
+- Used these ip ranges to create a **aws security group**. 
