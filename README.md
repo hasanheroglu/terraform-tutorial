@@ -38,4 +38,5 @@ Learning terraform.
 ## Sat 11 Dec 2021 07:23:59 PM +03 (DEMO 8)
 - Created an instance in custom VPC.
 - Created a security group for the instance.
-
+## Sun 12 Dec 2021 06:23:40 PM +03 (DEMO 9)
+- Added extra storage volume to previous demo's instance.
